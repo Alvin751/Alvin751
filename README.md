@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, composing music.
 - 🌱 I’m currently learning javascript, node.js.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 I'm online, most of the time.
+- 📫 I'm online, some of the time.
 
 
 - 😌 I'm new to Github, but I hope I will get better at knowing what to do here.
